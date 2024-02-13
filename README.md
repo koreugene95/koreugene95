@@ -14,5 +14,5 @@
 ![Excel](https://img.shields.io/badge/-Excel-090909?style=for-the-badge&logo=Excel&LogoColor=F8C52C)
 
 ### Follow Me \ Связаться со мной
-[![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:koreugene95@ya.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/koreugene)
+[![Gmail](https://img.shields.io/badge/-mail-090909?style=for-the-badge&logo=Gmail&logoColor=27A0D9)](mailto:koreugene95@ya.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/koreugene)
