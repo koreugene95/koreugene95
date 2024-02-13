@@ -8,10 +8,10 @@
 
 
 ### Languages & Tools \ Языки и инструменты
-![python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-69b5cc?style=for-the-badge&logo=SQL)
-![PowerBI](https://img.shields.io/badge/-PowerBI-69b5cc?style=for-the-badge&logo=PowerBI)
-![Excel](https://img.shields.io/badge/-Excel-69b5cc?style=for-the-badge&logo=Excel)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&LogoColor=F8C52C)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&LogoColor=F8C52C)
+![PowerBI](https://img.shields.io/badge/-PowerBI-090909?style=for-the-badge&logo=PowerBI&LogoColor=F8C52C)
+![Excel](https://img.shields.io/badge/-Excel-090909?style=for-the-badge&logo=Excel&LogoColor=F8C52C)
 
 ### Follow Me \ Связаться со мной
 [![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:koreugene95@ya.ru)
